@@ -63,11 +63,11 @@ dog.eat();
 //  2)
 //  Noun: Radio
 //  action 1: The radio receives signals.
-radio.receive();
+radio.receiveSignal();
 //  action 2: The radio transmits signals.
-radio.transmit();
+radio.transmitSignal();
 //  action 3: The radio changes frequencies.
-radio.setFrequency();
+radio.changeFrequency();
 
 //  3) musicPlayer
 //  Noun:
@@ -83,7 +83,7 @@ musicPlayer.openFile();
 //  action 1: The car accelerates.
 car.accelerate();
 //  action 2: The car slows down.
-car.break();
+car.slowDown();
 //  action 3: The car changes gear. 
 car.changeGear();
 
@@ -106,13 +106,13 @@ student.takeNotes();
 student.takeExam();
 
 //  7) 
-//  Noun: Teacher
-//  action 1: The teacher lectures.
-teacher.lecture();
-//  action 2: The teacher grades assignments.
-teacher.gradeAssignment();
-//  action 3: The teacher takes attendance.
-teacher.takeAttendance(); 
+//  Noun: alarmClock
+//  action 1: The alarm clock sounds alarm. 
+alarmClock.alarmSound();
+//  action 2: The alarm clock sleeps alarm. 
+alarmClock.alarmSleep();
+//  action 3: The alarm clock disables alarm.  
+alarmClock.alarmDisable();
 
 //  8)
 //  Noun: Librarian 
@@ -128,16 +128,16 @@ librarian.checkInBook();
 //  action 1: The phone makes a call.
 phone.placeCall();
 //  action 2: The phone connects an incoming call.
-phone.connectIncommingCall();
+phone.connectIncomingCall();
 //  action 3: The phone hangs up.
 phone.hangUp();
 
 //  10)
 //  Noun: Calculator 
 //  action 1: The calculator adds two numbers.
-calculator.sum();
+calculator.add();
 //  action 2: The calculator subtracts two numbers
-calculator.diff();
+calculator.subtract();
 //  action 3: The calculator multiplies two numbers.
 calculator.multiply(); 
 

@@ -108,11 +108,11 @@ student.takeExam();
 //  7) 
 //  Noun: alarmClock
 //  action 1: The alarm clock sounds alarm. 
-alarmClock.alarmSound();
+alarmClock.sound();
 //  action 2: The alarm clock sleeps alarm. 
-alarmClock.alarmSleep();
+alarmClock.sleep();
 //  action 3: The alarm clock disables alarm.  
-alarmClock.alarmDisable();
+alarmClock.disable();
 
 //  8)
 //  Noun: Librarian 

@@ -54,29 +54,29 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 //  1)
 //  Noun: Dog
 //  action 1: The dog barks.
-dog.bark()
+dog.bark();
 //  action 2: The dog sleeps.
-dog.sleep()
+dog.sleep();
 //  action 3: The dog eats.
-dog.eat()
+dog.eat();
 
 //  2)
 //  Noun: Radio
 //  action 1: The radio receives signals.
-radio.receive()
+radio.receive();
 //  action 2: The radio transmits signals.
-radio.transmit()
+radio.transmit();
 //  action 3: The radio changes frequencies.
-radio.setFrequency()
+radio.setFrequency();
 
 //  3) musicPlayer
 //  Noun:
 //  action 1: The music player plays a song.
-musicPlayer.play()
+musicPlayer.play();
 //  action 2: The music player stops playing a song.
-musicPlayer.stop()
+musicPlayer.stop();
 //  action 3: The music player opens a new file.
-musicPlayer.openFile()
+musicPlayer.openFile();
 
 //  4)
 //  Noun: Car 
@@ -90,20 +90,20 @@ car.changeGear();
 //  5)
 //  Noun: Bird
 //  action 1: The bird flys.
-bird.fly()
+bird.fly();
 //  action 2: The bird sings.
-bird.sing()
+bird.sing();
 //  action 3: The bird lays an egg.
-bird.layEgg()
+bird.layEgg();
 
 //  6)
 //  Noun: Student
 //  action 1: The student reads.
 student.read();
 //  action 2: The student takes notes.
-student.takeNotes()
+student.takeNotes();
 //  action 3: The student takes exam.
-student.takeExam()
+student.takeExam();
 
 //  7) 
 //  Noun: Teacher
@@ -126,20 +126,20 @@ librarian.checkInBook();
 //  9)
 //  Noun: Phone
 //  action 1: The phone makes a call.
-phone.placeCall()
+phone.placeCall();
 //  action 2: The phone connects an incoming call.
-phone.connectIncommingCall()
+phone.connectIncommingCall();
 //  action 3: The phone hangs up.
 phone.hangUp();
 
 //  10)
 //  Noun: Calculator 
 //  action 1: The calculator adds two numbers.
-calculator.sum()
+calculator.sum();
 //  action 2: The calculator subtracts two numbers
-calculator.diff()
+calculator.diff();
 //  action 3: The calculator multiplies two numbers.
-calculator.multiply() 
+calculator.multiply(); 
 
 
 #endif
